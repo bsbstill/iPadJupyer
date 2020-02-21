@@ -1,4 +1,4 @@
+name: python 3.6
 dependencies:
-  - python3
-  - pip:
-    - numpy
+  - python=3.6
+  - numpy
